@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/search/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SearchEngineTests.java
+    visible: false
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+    learner_created: false
+  - name: src/search/SearchStrategy.java
+    visible: true
+    learner_created: true
+  - name: src/search/AnyStrategy.java
+    visible: true
+    learner_created: true
+  - name: src/search/AllStrategy.java
+    visible: true
+    learner_created: true
+  - name: src/search/NoneStrategy.java
+    visible: true
+    learner_created: true
+  - name: src/search/StrategyFactory.java
+    visible: true
+    learner_created: true
+  - name: src/search/DatosIndexados.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/66/stages/359/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 21 Oct 2025 16:05:40 UTC"
+record: -1
